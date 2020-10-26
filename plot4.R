@@ -1,4 +1,4 @@
-1. DOwnloading data 
+#DOwnloading data 
 rawDataDir <- "/Users/Falcon/Desktop/Coursera/Explanatory Data Analysis"
 rawDataUrl <- "https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip"
 rawDataFilename <- "rawData.zip"
